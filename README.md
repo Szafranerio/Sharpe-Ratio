@@ -18,6 +18,9 @@ Overall, the Sharpe Ratio is a fundamental metric in algorithmic trading, enabli
 
 ### Sharpe Ratio Value Interpretation:
 Greater than 1: A Sharpe Ratio greater than 1 is often considered good, indicating that the investment returns are high relative to the risk taken.
+
 Around 1: A Sharpe Ratio around 1 is considered acceptable to good, depending on the context and market conditions. It shows that the returns adequately compensate for the risk.
+
 Between 0 and 1: A Sharpe Ratio between 0 and 1 suggests that the investment returns are not fully compensating for the risk. However, this may still be acceptable in low-risk investments or in a low interest rate environment.
+
 Less than 0: A Sharpe Ratio less than 0 indicates that the investment has underperformed the risk-free rate, suggesting that the risk taken is not justified by the returns.
